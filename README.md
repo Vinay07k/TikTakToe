@@ -1,4 +1,4 @@
-# tiktaktoe
+# TikTakToe
 A fun game made using flutter to play with family and friends.
 
 <table>
