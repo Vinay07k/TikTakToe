@@ -4,8 +4,9 @@ A fun game made using flutter to play with family and friends.
 <table>
   <tr>
     <td>Home Page</td>
-     <td>Search Page</td>
-     <td>FAQs</td>
+     <td>Player Info</td>
+     <td>Game Screen</td>
+    <td>Winner</td>
   </tr>
   <tr>
     <td><img src="ssttt_1.png" width=270 height=480></td>
