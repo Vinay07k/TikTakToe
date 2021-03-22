@@ -9,12 +9,12 @@ class CustomRoundedButton extends StatelessWidget {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Container(
-      margin: EdgeInsets.symmetric(vertical: 10),
-      width: size.width * 0.8,
+      margin: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+      width: size.width * 0.9,
       child: ClipRRect(
         borderRadius: BorderRadius.circular(29),
         child: FlatButton(
-          padding: EdgeInsets.symmetric(vertical: 20, horizontal: 40),
+          padding: EdgeInsets.symmetric(vertical: 20, horizontal: 60),
           color: Colors.orange[400],
           onPressed: this.press,
           child: Text(
