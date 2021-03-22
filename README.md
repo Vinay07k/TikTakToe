@@ -9,10 +9,10 @@ A fun game made using flutter to play with family and friends.
     <td>Winner</td>
   </tr>
   <tr>
-    <td><img src="ssttt_1.png" width=270 height=420></td>
-    <td><img src="ssttt_2.png" width=270 height=420></td>
-    <td><img src="ssttt_3.png" width=270 height=420></td>
-    <td><img src="ssttt_4.png" width=270 height=420></td>
+    <td><img src="ssttt_1.png" width=300 height=420></td>
+    <td><img src="ssttt_2.png" width=300 height=420></td>
+    <td><img src="ssttt_3.png" width=300 height=420></td>
+    <td><img src="ssttt_4.png" width=300 height=420></td>
   </tr>
  </table>
 
