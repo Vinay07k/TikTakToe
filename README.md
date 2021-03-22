@@ -1,6 +1,19 @@
 # tiktaktoe
+A fun game made using flutter to play with family and friends.
 
-A new Flutter project.
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>Search Page</td>
+     <td>FAQs</td>
+  </tr>
+  <tr>
+    <td><img src="ssttt_1.png" width=270 height=480></td>
+    <td><img src="ssttt_2.png" width=270 height=480></td>
+    <td><img src="ssttt_3.png" width=270 height=480></td>
+    <td><img src="ssttt_4.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
